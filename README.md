@@ -21,11 +21,11 @@ The focuser hardware is based on the following parts.
 ## Supported Stepper Motors
 * 5V 4-phase Stepper Motor 28BYJ-48
 
-## Diagrams
+## Images
 
-Connecting the Motor driver board
+You can find some images in the images directory how to solder the stepper motor driver and teensy board.
 
-Cabling
+There are also some images of a 3D printed focuser for a Celestron C8.
 
 
 ## Installation
