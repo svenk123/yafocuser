@@ -36,8 +36,6 @@ make
 make install
 ```
 
-When you start your Indi server use the indi_moonlite_focus module to enable the focuser. The Windows software provided by Moonlite is also usable.
-
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
