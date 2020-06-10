@@ -28,6 +28,7 @@ You can find some images in the images directory how to solder the stepper motor
 There are also some images of a 3D printed focuser for a Celestron C8.
 
 
+
 ## Installation
 Compile and transfer the program to the Teensy board.
 
